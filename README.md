@@ -1,2 +1,2 @@
 # MLPR_project
-This is a project for Machine Learning and Pattern Recognition Course.
+This is our project for Machine Learning and Pattern Recognition Course.
